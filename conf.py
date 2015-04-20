@@ -390,11 +390,7 @@ REDIRECTIONS = []
 # in a `nikola deploy` command as you like.
 DEPLOY_COMMANDS = {
     'default': [
-        "cd output",
-        "nikola build",
-        "git add --all",
-        "git commit -m 'standard commit'",
-        "git push origin master",
+        "cd output; nikola build; git add --all; git commit -m 'standard commit'; git push origin master",
     ]
 }
 
