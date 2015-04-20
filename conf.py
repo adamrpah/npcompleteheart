@@ -130,7 +130,7 @@ NAVIGATION_LINKS = {
 
 # Name of the theme to use.
 #THEME = "bootstrap3"
-THEME = 'cyborg-ipython'
+THEME = 'yeti-ipython'
 
 # Below this point, everything is optional
 
