@@ -21,7 +21,7 @@ BLOG_AUTHOR = "Adam Pah"  # (translatable)
 BLOG_TITLE = "NP Complete Heart"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link
-SITE_URL = "http://adamrpah.github.io/"
+SITE_URL = "http://www.npcompleteheart.com/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://npcompleteheart.com"
