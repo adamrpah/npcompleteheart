@@ -1,7 +1,7 @@
 <!-- 
 .. title: I wish I knew then what I know now (reproducible methods are awesome!)
 .. slug: i-wish-i-knew-then-what-i-know-now-reproducible-methods-are-awesome
-.. date: 2015-04-17 08:01:36 UTC-05:00
+.. date: 2014-04-17 08:01:36 UTC-05:00
 .. tags: 
 .. category: 
 .. link: 

@@ -9,6 +9,6 @@
 .. type: text
 -->
 
-![Dumb business cards](/images/ttx_phone.jpg)
+![Dumb business cards](/images/ttx_phone.png)
 
 Well, at least they make great structural support.
