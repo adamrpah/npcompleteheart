@@ -1,7 +1,7 @@
 <!-- 
 .. title: Make maps like a boss
 .. slug: make-maps-like-a-boss
-.. date: 2015-05-17 08:05:40 UTC-05:00
+.. date: 2014-05-17 08:05:40 UTC-05:00
 .. tags: 
 .. category: 
 .. link: 
