@@ -36,4 +36,10 @@ so I just did the lazy thing and made a separate repository for Github to serve 
 Most things made it over okay, with the only real holdovers being the D3 visualizations with
 javascript. I know that it's possible to move them over using an IPython notebook I just haven't had
 the time yet. Through this process I also found out that someone limited the Folium mapping package
-to only 6 colors again for apparently no fucking reason! Yay open source!
+to only 6 colors again for apparently no fucking reason! Yay open source! Oh, and I killed some
+high-traffic pages that I hated just because, like how to make a volcano plot. It was just too old
+and out of date.
+
+Otherwise, the website isn't completely up yet (I need to add the projects back in, maybe give the
+detail pages on individual publications) and figure out how to get some more javascript working (I know
+completely against the whole starting premise). 
