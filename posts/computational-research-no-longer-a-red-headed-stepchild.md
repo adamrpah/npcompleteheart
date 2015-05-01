@@ -16,6 +16,8 @@ daily schedule), but at the symposium on Tuesday I felt constantly excited and e
 and quality of research presented was excellent and the diverse topics covered kept the gears
 turning in my head.
 
+<!-- TEASER_END -->
+
 Most importantly, the sense of camaraderie that I felt amongst these computational researchers kept
 me energized. I wish that this event existed when I started graduate school. As a computational
 researcher that was purportedly a biologist, it was easy to feel that I was a part of a group that I
