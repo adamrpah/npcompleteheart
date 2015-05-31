@@ -11,19 +11,19 @@
 
 #Publications
 
-* Big Data: What is it and what does it mean for cardiovascular research and prevention policy <br/>
+* [Big Data: What is it and what does it mean for cardiovascular research and prevention policy](http://link.springer.com/article/10.1007/s12170-014-0424-3#page-1) <br/>
   **Pah AR**, Rasmussen-Torvik LJ, Goel S, Greenland P, and Kho AN. <br/>
   Current Cardiovascular Risk Reports 9, 11--9 (2015) <br/>
 
-* Adoption of a high-impact innovation in a homogeneous population. <br/>
+* [Adoption of a high-impact innovation in a homogeneous population.](http://journals.aps.org/prx/abstract/10.1103/PhysRevX.4.041008) <br/>
   Weiss CH, Poncela-Casasnovas J, Glaser JI, **Pah AR**, Persell SD, Baker DW, Wunderink RG, and Amaral LAN. <br/>
   Phys. Rev. X 4, 041008 (2014) <br/>
 
-* Use of a global metabolic network to predict organismal metabolic networks <br/>
+* [Use of a global metabolic network to predict organismal metabolic networks](http://www.nature.com/srep/2013/130422/srep01695/full/srep01695.html) <br/>
   **Pah AR**, Guimera R, Mustoe AM, Amaral LAN <br/>
   Scientific Reports 3, 1695 (2013) <br/>
 
-* Arabidopsis thaliana putative sialyltransferase resides in plant Golgi but lacks the ability to transfer sialic acid <br/>
+* [Arabidopsis thaliana putative sialyltransferase resides in plant Golgi but lacks the ability to transfer sialic acid](http://onlinelibrary.wiley.com/doi/10.1111/j.1438-8677.2008.00138.x/abstract) <br/>
   Daskalova SM, **Pah AR**, Baluch DP, and Lopez LC <br/>
   Plant Biology 11(3), 284--299 (2009) <br/>
 
