@@ -9,15 +9,21 @@
 .. type: text
 -->
 
-<p>
-I just finished reading Axelrod's <i>The Complexity of Cooperation</i> and I have to say, it's one of the better scientific books that I can remember reading (period). This is surprising (for me), since it's really just a collection of seven of his published papers along with some commentary. However, his papers are so well written and the commentary is brilliant, especially for someone pursuing research as a career, since it not only provides insight into the genesis of the work but also how it was regarded by journals.
-</p>
+<div class='row'>
+<div class='col-md-8'>
+I just finished reading Axelrod's <strong>The Complexity of Cooperation</strong> and I have to say, it's one of the better scientific books that I can remember reading (period). This is surprising (for me), since it's really just a collection of seven of his published papers along with some commentary. However, his papers are so well written and the commentary is brilliant, especially for someone pursuing research as a career, since it not only provides insight into the genesis of the work but also how it was regarded by journals.
+</div>
+<div class='col-md-4'>
+<img src='/images/prisoners_dilemma.jpg'></img>
+</div>
 
+<!-- TEASER_END -->
+
+<div class='col-md-12'>
 <p>
 This case is especially so for Chapters 4/5/7, which are concerned with his use of Landscape theory to predict alliances between nations and companies and the diffusion of culture. For all of these papers, he discusses the difficulties in publishing these pieces and then their lack of acceptance in the field at the time. For the landscape theories the lack of acceptance was primarily due to the nonexistence of rational agents and decision-making, while in the culture diffusion model it centered on the absence of "politics of any kind", as so succinctly stated by one reviewer.
 </p>
 
-<!-- TEASER_END -->
 
 <p>
 In a hilarious twist, or maybe it's based solely on my anti-authoritarian leanings, these three papers were far and away my favorites of the entire compilation. The two landscape theory papers were concerned with predicting the formation of alliances, with Chapter 4 being focused on predicting the split of countries in World War II and Chapter 5 consortium alliances in setting Unix standards in the late 1980s. He describes the distaste that game theorists and (probably) economists had for this work since it didn't have a true "game" or rational decision agents, and instead was inspired by research on spin glass models and is, in reality, a method to find the energy landscape of possible group formations. In a somewhat hilarious turn, despite knowing more than a few people who have done research on spin glass models, this is probably the first piece of work that really made me appreciate the value that is in this model (which, honestly, was lacking in me before). 
@@ -46,3 +52,5 @@ However, the main question that I still have of this model is one of cultural dr
 <p>
 In any case this is wonderful book that only takes about a night and a glass of whiskey to finish, which means that you really can't go wrong.
 </p>
+</div>
+</div>

@@ -9,8 +9,8 @@
 .. type: text
 -->
 
-![wordpress riding heroku](/images/wordpress_heroku.png)
-
+<div class="row" >
+<div class="col-md-8">
 Well, not for me of course. After a solid week of my girlfriend helping me to use Illustrator it was
 time to pay her back and help her get a website up and running. I went over the options that I knew
 (Nikola, Django, Node.js, Ruby on Rails) and it became quickly apparent that none of those were
@@ -19,8 +19,16 @@ some more to it/fix it up. The only logistical issue is that it's hard to find a
 free that allows you to use a custom domain (she's about to graduate from school so it's important
 that she have a real website name). For that privilege wordpress.org charges you $8/mon, which,
 while I may know nothing about Wordpress, I find to be crazy.
+</div>
+<div class="col-md-4">
+<img src='/images/wordpress_heroku.png'></img>
+</div>
 
+<!-- TEASER_END -->
+<div class='col-md-12'>
 So instead I went around searching for how to shoehorn Wordpress onto Heroku's Cedar stack (which is
 where Django ends up). Luckily others have already had this desire and it was super easy!  Using
-this [github](https://github.com/mhoofman/wordpress-heroku) repository and README I had the
+this <a src='https://github.com/mhoofman/wordpress-heroku'>github</a> repository and README I had the
 wordpress site up and running in seconds. Woot!
+</div>
+</div>
