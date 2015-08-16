@@ -9,6 +9,8 @@
 .. type: text
 -->
 
+![wordpress riding heroku](/images/wordpress_heroku.png)
+
 Well, not for me of course. After a solid week of my girlfriend helping me to use Illustrator it was
 time to pay her back and help her get a website up and running. I went over the options that I knew
 (Nikola, Django, Node.js, Ruby on Rails) and it became quickly apparent that none of those were

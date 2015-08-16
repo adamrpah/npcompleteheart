@@ -2,6 +2,10 @@ body {
   position: static;
 }
 
+.body-content {
+  max-width: 900px;
+}
+
 pre {
   padding: 0.4em;
   margin: 0px;
@@ -133,3 +137,5 @@ margin-left: 15px;
 .highlight .vg { color: #19177C } /* Name.Variable.Global */
 .highlight .vi { color: #19177C } /* Name.Variable.Instance */
 .highlight .il { color: #666666 } /* Literal.Number.Integer.Long */
+
+

@@ -9,7 +9,7 @@
 .. type: text
 -->
 
-I guess my post on (Django and MongoDB in 2015)[www.npcompleteheart.com/posts/django-and-mongodb-in-2015] 
+I guess my post on [Django and MongoDB in 2015](www.npcompleteheart.com/posts/django-and-mongodb-in-2015) 
 was prophetic, because I just changed my website over last week. It seemed that everytime I wanted to post 
 a blog it was from an IPython notebook, which either meant reconfiguring the site to display IPython notebooks 
 and get the css right or keep on with the semi-arduous process of converting the notebook to html (writing 
