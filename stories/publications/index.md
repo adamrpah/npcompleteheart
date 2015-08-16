@@ -11,6 +11,10 @@
 
 #Publications
 
+* [Design and implementation of a privacy preserving electronic health record linkage tool in Chicago](http://jamia.oxfordjournals.org/content/early/2015/06/23/jamia.ocv038.abstract) <br/>
+  Kho AN, Cashy JP, Jackson KL, **Pah AR**, Goel S, Boehnke J, Humphries JE, Kominers SD, Hota BN, Sims SA, Malin BA, French DD, Walunas TL, Meltzer DO, Kaleba EO, Jones RC, Galanter WL<br/>
+  Journal of the American Medical Informatics Association ocv038 (2015)<br/>
+
 * [Big Data: What is it and what does it mean for cardiovascular research and prevention policy](http://link.springer.com/article/10.1007/s12170-014-0424-3#page-1) <br/>
   **Pah AR**, Rasmussen-Torvik LJ, Goel S, Greenland P, and Kho AN. <br/>
   Current Cardiovascular Risk Reports 9, 11--9 (2015) <br/>

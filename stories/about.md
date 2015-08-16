@@ -9,9 +9,10 @@
 .. type: text
 -->
 
+![me](/images/business_card.png)
+
 I am a Data|Computational Social|Complexity|Network Scientist. These days I typically just say that
-I'm a Scientist, since that is the most important part to me (but I know, it makes
-it harder to categorize).  
+I'm a Scientist.
 
 My focus is on teaching the concepts of complexity, data science, and computational analysis to 
 students of all stripes and conducting research. 

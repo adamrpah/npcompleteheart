@@ -9,6 +9,8 @@
 .. type: text
 -->
 
+![tesla](/images/tesla_time_travel.jpg)
+
 I guess my post on [Django and MongoDB in 2015](www.npcompleteheart.com/posts/django-and-mongodb-in-2015) 
 was prophetic, because I just changed my website over last week. It seemed that everytime I wanted to post 
 a blog it was from an IPython notebook, which either meant reconfiguring the site to display IPython notebooks 
