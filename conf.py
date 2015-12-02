@@ -126,6 +126,7 @@ NAVIGATION_LINKS = {
         ("/pdf/curriculumvitae.pdf", "Curriculum Vitae"),
         ("/stories/research.html", "Research"),
         ("/stories/publications/publications.html", "Publications"),
+        ("/stories/socialdna/index.html", "SocialDNA"),
         #("/categories/index.html", "Tags"),
     ),
 }
@@ -207,10 +208,12 @@ POSTS = (
     ("posts/*.rst", "posts", "post.tmpl"),
     ("posts/*.txt", "posts", "post.tmpl"),
     ("posts/*.md", "posts", "post.tmpl"),
+    ("posts/*.html", "posts", "post.tmpl"),
     ("posts/*.ipynb", "posts", "post.tmpl"), 
 )
 PAGES = (
     ("stories/*.rst", "stories", "story.tmpl"),
+    ("stories/*.html", "stories", "story.tmpl"),
     ("stories/*.txt", "stories", "story.tmpl"),
     ("stories/*.md", "stories", "story.tmpl"),
     ("stories/*.ipynb", "stories", "story.tmpl"),
@@ -586,13 +589,13 @@ INDEX_TEASERS = True
 # 'Read more...' for the index page, if INDEX_TEASERS is True (translatable)
 INDEX_READ_MORE_LINK = '<p class="more"><a href="{link}">{read_more}…</a></p>'
 # 'Read more...' for the RSS_FEED, if RSS_TEASERS is True (translatable)
-RSS_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_read})</p>'
+FEED_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_read})</p>'
 
 # Append a URL query to the RSS_READ_MORE_LINK and the //rss/item/link in
 # RSS feeds. Minimum example for Piwik "pk_campaign=rss" and Google Analytics
 # "utm_source=rss&utm_medium=rss&utm_campaign=rss". Advanced option used for
 # traffic source tracking.
-RSS_LINKS_APPEND_QUERY = False
+FEED_LINKS_APPEND_QUERY = False
 
 # A HTML fragment describing the license, for the sidebar.
 # (translatable)
@@ -799,10 +802,10 @@ GENERATE_RSS = True
 # RSS_LINK = None
 
 # Show only teasers in the RSS feed? Default to True
-RSS_TEASERS = False
+FEED_TEASERS = False
 
 # Strip HTML in the RSS feed? Default to False
-RSS_PLAIN = False
+FEED_PLAIN = False
 
 # A search form to search this site, for the sidebar. You can use a Google
 # custom search (http://www.google.com/cse/)
