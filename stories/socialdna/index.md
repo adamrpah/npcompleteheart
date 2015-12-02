@@ -26,7 +26,8 @@
 <!-- Start the second row -->
 <div class="row" style='padding-bottom:30px;'>
 <div class='col-md-6'>
-<h2>asdf</h2>
+<h2>General Content</h2>
+Coming soon!
 </div>
 <div class='col-md-6'>
 <h2>Gephi Troubleshooting</h2>
