@@ -2,7 +2,7 @@
 .. title: Pandas + Matplotlib + Looking pretty good
 .. slug: pandas-+-matplotlib-+-looking-pretty-good
 .. date: 2014-03-31 07:59:11 UTC-05:00
-.. tags: 
+.. tags: python, code, tutorial, plots, pandas, matplotlib
 .. category: 
 .. link: 
 .. description: 

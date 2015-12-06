@@ -2,7 +2,7 @@
 .. title: Better late than never
 .. slug: better-late-than-never
 .. date: 2014-02-08 07:49:13 UTC-05:00
-.. tags: 
+.. tags: presentation, research
 .. category: 
 .. link: 
 .. description: 

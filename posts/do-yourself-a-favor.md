@@ -2,7 +2,7 @@
 .. title: Do yourself a favor...
 .. slug: do-yourself-a-favor
 .. date: 2015-01-25 09:44:42 UTC-05:00
-.. tags: 
+.. tags: music
 .. category: 
 .. link: 
 .. description: 

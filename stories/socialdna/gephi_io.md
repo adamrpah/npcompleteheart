@@ -1,7 +1,7 @@
 .. title: Gephi File I/O
 .. slug: gephi-io
 .. date: 2015-12-01 21:54:37 UTC-06:00
-.. tags: 
+.. tags: gephi, networks
 .. category: 
 .. link: 
 .. description: 

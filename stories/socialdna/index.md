@@ -27,7 +27,11 @@
 <div class="row" style='padding-bottom:30px;'>
 <div class='col-md-6'>
 <h2>General Content</h2>
-Coming soon!
+<ul>
+<li> <a href='/categories/socialdna.html'>All Relevant Content</a>  </li>
+<li> <a href='/categories/socialdna-readings.html'>Readings</a> </li>
+<li> <a href='/categories/gephi.html'>Gephi Content</a> </li>
+</ul>
 </div>
 <div class='col-md-6'>
 <h2>Gephi Troubleshooting</h2>

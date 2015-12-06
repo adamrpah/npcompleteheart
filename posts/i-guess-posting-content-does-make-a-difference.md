@@ -2,7 +2,7 @@
 .. title: I guess posting content does make a difference
 .. slug: i-guess-posting-content-does-make-a-difference
 .. date: 2013-03-16 13:59:17 UTC-05:00
-.. tags: 
+.. tags: web
 .. category: 
 .. link: 
 .. description: 

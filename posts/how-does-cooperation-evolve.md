@@ -2,7 +2,7 @@
 .. title: How does cooperation evolve?
 .. slug: how-does-cooperation-evolve
 .. date: 2015-01-25 09:47:41 UTC-05:00
-.. tags: 
+.. tags: rationality, science, book, review
 .. category: 
 .. link: 
 .. description: 

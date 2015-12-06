@@ -2,7 +2,7 @@
 .. title: What is the structure of my Django app?
 .. slug: what-is-the-structure-of-my-django-app
 .. date: 2013-03-20 07:27:44 UTC-05:00
-.. tags: 
+.. tags: django, web, mongodb, tutorial
 .. category: 
 .. link: 
 .. description: 

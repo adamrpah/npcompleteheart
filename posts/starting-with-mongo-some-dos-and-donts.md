@@ -2,7 +2,7 @@
 .. title: Starting with Mongo, some Dos and Don'ts
 .. slug: starting-with-mongo-some-dos-and-donts
 .. date: 2013-05-02 07:38:44 UTC-05:00
-.. tags: 
+.. tags: mongodb, tutorial
 .. category: 
 .. link: 
 .. description: 

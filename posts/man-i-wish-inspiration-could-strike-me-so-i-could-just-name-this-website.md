@@ -2,7 +2,7 @@
 .. title: Man, I wish inspiration could strike me so I could just name this website
 .. slug: man-i-wish-inspiration-could-strike-me-so-i-could-just-name-this-website
 .. date: 2014-01-19 07:47:51 UTC-05:00
-.. tags: 
+.. tags: python, random
 .. category: 
 .. link: 
 .. description: 

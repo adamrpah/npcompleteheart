@@ -2,7 +2,7 @@
 .. title: Is it Easter time yet?
 .. slug: is-it-easter-time-yet
 .. date: 2013-10-05 07:44:44 UTC-05:00
-.. tags: 
+.. tags: artesque, random
 .. category: 
 .. link: 
 .. description: 

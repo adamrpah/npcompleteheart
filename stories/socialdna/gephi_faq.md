@@ -1,7 +1,7 @@
 .. title: Gephi FAQ
 .. slug: gephi-faq
 .. date: 2015-12-01 21:54:50 UTC-06:00
-.. tags: 
+.. tags: gephi
 .. category: 
 .. link: 
 .. description: 

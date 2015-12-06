@@ -2,7 +2,7 @@
 .. title: I graduated!
 .. slug: i-graduated
 .. date: 2013-05-27 07:39:55 UTC-05:00
-.. tags: 
+.. tags: congratulations!
 .. category: 
 .. link: 
 .. description: 

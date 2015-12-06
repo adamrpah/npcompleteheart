@@ -2,7 +2,7 @@
 .. title: Ever wanted to estimate small area effects in health data?
 .. slug: ever-wanted-to-estimate-small-area-effects-in-health-data
 .. date: 2014-04-11 08:00:27 UTC-05:00
-.. tags: 
+.. tags: presentation, research
 .. category: 
 .. link: 
 .. description: 
@@ -14,7 +14,7 @@ Well now you sort of can!
 </h4>
 
 <p>
-I just presented at AMIA on my methodology to use limited patient demographic/location data to estimate the number of patient cases at a smaller geographic locality. The methodology is split between a Monte Carlo simulation and GIS methods (Semi-variogram+Kriged Surface+Geographical Gaussian Simulation) to estimate patient cases. Currently the monte carlo part is already coded and freely available on my <a href='https://bitbucket.org/adamrpah/geographic-record-disaggregation'>bitbucket</a>. The latter half of the code is coming as soon as we can identify an appropriate open source GIS library to port it the current code into.
+I just presented at AMIA on my methodology to use limited patient demographic/location data to estimate the number of patient cases at a smaller geographic locality. The methodology is split between a Monte Carlo simulation and GIS methods (Semi-variogram+Kriged Surface+Geographical Gaussian Simulation) to estimate patient cases. Currently the monte carlo part is already coded and freely available on my <strike>bitbucket</strike>. The latter half of the code is coming as soon as we can identify an appropriate open source GIS library to port it the current code into.
 </p>
 
 <!-- TEASER_END -->

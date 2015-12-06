@@ -2,7 +2,7 @@
 .. title: Follow me on the Reading Rainbow
 .. slug: follow-me-on-the-reading-rainbow
 .. date: 2015-08-16 09:41:17 UTC-05:00
-.. tags: 
+.. tags: book, review, social influence, research, social science, socialdna, socialdna readings
 .. category: 
 .. link: 
 .. description: 

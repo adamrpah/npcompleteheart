@@ -2,7 +2,7 @@
 .. title: Things keep a-changing
 .. slug: things-keep-a-changing
 .. date: 2015-05-01 08:50:41 UTC-05:00
-.. tags: 
+.. tags: web, django, mongodb
 .. category: 
 .. link: 
 .. description: 

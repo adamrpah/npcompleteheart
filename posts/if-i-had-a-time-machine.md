@@ -2,7 +2,7 @@
 .. title: If I had a time machine...
 .. slug: if-i-had-a-time-machine
 .. date: 2014-03-15 07:57:18 UTC-05:00
-.. tags: 
+.. tags: goals
 .. category: 
 .. link: 
 .. description: 

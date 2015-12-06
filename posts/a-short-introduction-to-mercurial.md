@@ -2,7 +2,7 @@
 .. title: A short introduction to Mercurial
 .. slug: a-short-introduction-to-mercurial
 .. date: 2013-01-28 13:45:04 UTC-05:00
-.. tags: 
+.. tags: tutorial, mercurial, vcs
 .. category: 
 .. link: 
 .. description: 

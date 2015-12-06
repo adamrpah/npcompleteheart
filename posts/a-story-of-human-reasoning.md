@@ -2,7 +2,7 @@
 .. title: A story of human reasoning
 .. slug: a-story-of-human-reasoning
 .. date: 2014-11-24 09:41:27 UTC-05:00
-.. tags: 
+.. tags: book, review, rationality
 .. category: 
 .. link: 
 .. description: 

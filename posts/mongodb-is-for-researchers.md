@@ -2,7 +2,7 @@
 .. title: MongoDB is for researchers
 .. slug: mongodb-is-for-researchers
 .. date: 2015-03-31 13:49:20 UTC-05:00
-.. tags: 
+.. tags: mongodb, research
 .. category: 
 .. link: 
 .. description: 

@@ -1,7 +1,7 @@
 .. title: Gephi on OS X
 .. slug: gephi-osx
 .. date: 2015-12-01 21:49:55 UTC-06:00
-.. tags: 
+.. tags: gephi
 .. category: 
 .. link: 
 .. description: 

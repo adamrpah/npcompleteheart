@@ -2,7 +2,7 @@
 .. title: Django and MongoDB in 2015
 .. slug: django-and-mongodb-in-2015
 .. date: 2015-01-02 09:46:17 UTC-05:00
-.. tags: 
+.. tags: django, mongodb, web
 .. category: 
 .. link: 
 .. description: 

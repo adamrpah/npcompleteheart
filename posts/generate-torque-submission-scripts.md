@@ -2,7 +2,7 @@
 .. title: Generate torque submission scripts
 .. slug: generate-torque-submission-scripts
 .. date: 2014-06-07 09:34:11 UTC-05:00
-.. tags: 
+.. tags: code, hpc, python, tutorial
 .. category: 
 .. link: 
 .. description: 

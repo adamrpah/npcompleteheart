@@ -2,7 +2,7 @@
 .. title: I stopped checking my email and it feels great
 .. slug: i-stopped-checking-my-email-and-it-feels-great
 .. date: 2014-03-04 07:56:37 UTC-05:00
-.. tags: 
+.. tags: productivity, work life balance
 .. category: 
 .. link: 
 .. description: 

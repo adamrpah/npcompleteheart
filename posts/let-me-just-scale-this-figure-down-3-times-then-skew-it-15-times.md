@@ -2,7 +2,7 @@
 .. title: Let me just scale this figure down 3 times, then skew it 1.5 times
 .. slug: let-me-just-scale-this-figure-down-3-times-then-skew-it-15-times
 .. date: 2014-11-16 09:39:55 UTC-05:00
-.. tags: 
+.. tags: academia, research, soapbox, hair pull
 .. category: 
 .. link: 
 .. description: 

@@ -2,7 +2,7 @@
 .. title: A more thorough explanation and example on how to make a D3.js line graph
 .. slug: a-more-thorough-explanation-and-example-on-how-to-make-a-d3js-line-graph
 .. date: 2013-01-29 07:19:33 UTC-05:00
-.. tags: 
+.. tags: presentations, d3js, tutorial
 .. category: 
 .. link: 
 .. description: 

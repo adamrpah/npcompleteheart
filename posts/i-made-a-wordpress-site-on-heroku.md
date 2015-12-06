@@ -2,7 +2,7 @@
 .. title: I made a Wordpress site on Heroku!
 .. slug: i-made-a-wordpress-site-on-heroku
 .. date: 2015-05-01 09:41:25 UTC-05:00
-.. tags: 
+.. tags: code, random
 .. category: 
 .. link: 
 .. description: 

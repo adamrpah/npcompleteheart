@@ -122,12 +122,12 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/rss.xml", "<img src='/images/rss.png'></img>"),
+        ("/categories/index.html", "Tags"),
         ("/stories/about.html", "About"),
         ("/pdf/curriculumvitae.pdf", "Curriculum Vitae"),
         ("/stories/research.html", "Research"),
         ("/stories/publications/publications.html", "Publications"),
         ("/stories/socialdna/index.html", "SocialDNA"),
-        #("/categories/index.html", "Tags"),
     ),
 }
 

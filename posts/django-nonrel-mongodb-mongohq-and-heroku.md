@@ -2,7 +2,7 @@
 .. title: Django nonrel, MongoDB, MongoHQ, and Heroku
 .. slug: django-nonrel-mongodb-mongohq-and-heroku
 .. date: 2013-03-14 07:21:25 UTC-05:00
-.. tags: 
+.. tags: django, mongodb, web, tutorial
 .. category: 
 .. link: 
 .. description: 

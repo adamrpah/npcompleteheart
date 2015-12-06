@@ -2,7 +2,7 @@
 .. title: Computers are not magical things, but at times they are beyond temperamental creatures
 .. slug: computers-are-not-magical-things-but-at-times-they-are-beyond-temperamental-creatures
 .. date: 2013-01-23 13:26:13 UTC-05:00
-.. tags: 
+.. tags: osx
 .. category: 
 .. link: 
 .. description: 

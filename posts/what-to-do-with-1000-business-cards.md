@@ -2,7 +2,7 @@
 .. title: What to do with 1,000 business cards?
 .. slug: what-to-do-with-1000-business-cards
 .. date: 2013-08-27 07:43:33 UTC-05:00
-.. tags: 
+.. tags: random, cheeky
 .. category: 
 .. link: 
 .. description: 

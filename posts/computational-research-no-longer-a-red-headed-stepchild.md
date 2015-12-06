@@ -2,7 +2,7 @@
 .. title: Computational research, no longer a red-headed stepchild!
 .. slug: computational-research-no-longer-a-red-headed-stepchild
 .. date: 2015-04-21 19:56:52 UTC-05:00
-.. tags: 
+.. tags: conference, research
 .. category: 
 .. link: 
 .. description: 

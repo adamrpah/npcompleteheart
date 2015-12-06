@@ -2,7 +2,7 @@
 .. title: Auto-slugification, drafts, and cooler queries
 .. slug: auto-slugification-drafts-and-cooler-queries
 .. date: 2013-03-19 14:01:25 UTC-05:00
-.. tags: 
+.. tags: django, web
 .. category: 
 .. link: 
 .. description: 

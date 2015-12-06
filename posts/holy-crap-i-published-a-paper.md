@@ -2,7 +2,7 @@
 .. title: Holy crap, I published a paper!
 .. slug: holy-crap-i-published-a-paper
 .. date: 2013-04-22 07:37:04 UTC-05:00
-.. tags: 
+.. tags: research
 .. category: 
 .. link: 
 .. description: 

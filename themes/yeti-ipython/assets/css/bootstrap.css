@@ -6886,3 +6886,6 @@ input[type="checkbox"] {
 .modal .close {
   color: #222222;
 }
+#content{
+  padding-top: 60px;
+}

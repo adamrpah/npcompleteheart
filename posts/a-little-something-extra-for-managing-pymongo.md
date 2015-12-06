@@ -2,7 +2,7 @@
 .. title: A little something extra for managing PyMongo
 .. slug: a-little-something-extra-for-managing-pymongo
 .. date: 2013-12-17 07:46:48 UTC-05:00
-.. tags: 
+.. tags: python, mongodb, pymongo, code
 .. category: 
 .. link: 
 .. description: 

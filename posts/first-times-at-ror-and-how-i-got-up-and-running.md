@@ -2,7 +2,7 @@
 .. title: First times at RoR and how I got up and running
 .. slug: first-times-at-ror-and-how-i-got-up-and-running
 .. date: 2012-01-23 13:07:14 UTC-05:00
-.. tags: 
+.. tags: web, rails, tutorial
 .. category: 
 .. link: 
 .. description: 

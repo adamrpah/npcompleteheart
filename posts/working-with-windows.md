@@ -2,7 +2,7 @@
 .. title: Working with Windows
 .. slug: working-with-windows
 .. date: 2013-06-10 07:41:33 UTC-05:00
-.. tags: 
+.. tags: windows, tutorial, productivity
 .. category: 
 .. link: 
 .. description: 

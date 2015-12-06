@@ -2,7 +2,7 @@
 .. title: Business Cards!
 .. slug: business-cards
 .. date: 2013-04-16 07:28:53 UTC-05:00
-.. tags: 
+.. tags: artesque
 .. category: 
 .. link: 
 .. description: 

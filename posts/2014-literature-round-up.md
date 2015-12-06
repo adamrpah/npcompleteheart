@@ -2,7 +2,7 @@
 .. title: 2014 Literature Round up
 .. slug: 2014-literature-round-up
 .. date: 2014-12-31 09:43:24 UTC-05:00
-.. tags: 
+.. tags: book, review
 .. category: 
 .. link: 
 .. description: 
@@ -53,7 +53,7 @@ I never took an introductory statistics course, and as such my understanding of 
 <h4>American Psycho</h4>
 <h4>&mdash;Bret Easton Ellis</h4>
 <p>
-I really like some of Bret Easotn Ellis' work, and <i>American Psycho</i> was a great read but <i>The Informers</i> was completely forgettable. 
+I really like some of Bret Easton Ellis' work, and <i>American Psycho</i> was a great read but <i>The Informers</i> was completely forgettable. 
 </p>
 
 <br/>

@@ -2,7 +2,7 @@
 .. title: Wild unsupportable claims about how Product X sucks!
 .. slug: wild-unsupportable-claims-about-how-product-x-sucks
 .. date: 2013-12-11 07:45:46 UTC-05:00
-.. tags: 
+.. tags: soapbox, databases, mongodb
 .. category: 
 .. link: 
 .. description: 

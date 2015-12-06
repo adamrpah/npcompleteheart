@@ -2,7 +2,7 @@
 .. title: Calculating a Gini Coefficient
 .. slug: calculating-a-gini-coefficient
 .. date: 2014-05-18 09:33:15 UTC-05:00
-.. tags: 
+.. tags: tutorial, math, code, python
 .. category: 
 .. link: 
 .. description: 

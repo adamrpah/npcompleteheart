@@ -2,7 +2,7 @@
 .. title: An introduction to the how and why of iPython Notebooks
 .. slug: an-introduction-to-the-how-and-why-of-ipython-notebooks
 .. date: 2014-06-24 09:35:08 UTC-05:00
-.. tags: 
+.. tags: presentation, ipython, tutorial
 .. category: 
 .. link: 
 .. description: 
