@@ -59,31 +59,31 @@
 <a href='/stories/socialdna/lectures/lecture2.html'> <img src='/images/socialdna/cascades.png'/> </a>
 </div>
 <div class="col-md-3">
-<a href='/stories/socialdna/lectures/lecture3.html'> <img src='/images/socialdna/lecture3.png'/> </a>
+<a href='/stories/socialdna/lectures/lecture3.html'> <img src='/images/socialdna/measureandreact.png'/> </a>
 </div>
 <div class="col-md-3">
-<a href='/stories/socialdna/lectures/lecture4.html'> <img src='/images/socialdna/lecture4.png'/> </a>
+<a href='/stories/socialdna/lectures/lecture4.html'> <img src='/images/socialdna/correlate.png'/> </a>
 </div>
 </div>
 
 <!-- Lecture row 2 -->
-<div class="row" style='padding-bottom:15px;'>
+<div class="row" style='padding-bottom:30px;'>
 <div class="col-md-3">
-
+<a href='/stories/socialdna/lectures/lecture5.html'> <img src='/images/socialdna/candycrushing.png'/> </a>
 </div>
 <div class="col-md-3">
-
+<a href='/stories/socialdna/lectures/lecture6.html'> <img src='/images/socialdna/passivevirality.png'/> </a>
 </div>
 <div class="col-md-3">
-
+<a href='/stories/socialdna/lectures/lecture7.html'> <img src='/images/socialdna/xx.png'/> </a>
 </div>
 <div class="col-md-3">
-
+<a href='/stories/socialdna/lectures/lecture8.html'> <img src='/images/socialdna/xx.png'/> </a>
 </div>
 </div>
 
 <!-- Lecture row 3 -->
-<div class="row" style='padding-bottom:15px;'>
+<div class="row" style='padding-top:30px;padding-bottom:15px;'>
 <div class="col-md-3">
 
 </div>
