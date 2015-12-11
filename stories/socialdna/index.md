@@ -28,7 +28,8 @@
 <div class='col-md-6'>
 <h2>General Content</h2>
 <ul>
-<li> <a href='/categories/socialdna.html'>All Relevant Content</a>  </li>
+<li> <a href='/files/pdf/mors945_syllabus.pdf'>Syllabus</a> </li>
+<li> <a href='/categories/socialdna.html'>All Course Content Online</a>  </li>
 <li> <a href='/categories/socialdna-readings.html'>Readings</a> </li>
 <li> <a href='/categories/gephi.html'>Gephi Content</a> </li>
 </ul>
@@ -53,31 +54,39 @@
 <!-- Lecture row 1 -->
 <div class="row" style='padding-bottom:15px;'>
 <div class="col-md-3">
-<a href='/stories/socialdna/lectures/lecture1.html'> <img src='/images/socialdna/superstar.png'/> </a>
+<h3>Lecture 1:<br/>Social Influence</h3>
+<a href='/stories/socialdna/lectures/lecture1.html'> <img src='/images/socialdna/superstar.png' height=200px /> </a>
 </div>
 <div class="col-md-3">
-<a href='/stories/socialdna/lectures/lecture2.html'> <img src='/images/socialdna/cascades.png'/> </a>
+<h3>Lecture 2:<br/>Information Cascades</h3>
+<a href='/stories/socialdna/lectures/lecture2.html'> <img src='/images/socialdna/cascades.png' height=200px /> </a>
 </div>
 <div class="col-md-3">
-<a href='/stories/socialdna/lectures/lecture3.html'> <img src='/images/socialdna/measureandreact.png'/> </a>
+<h3>Lecture 3:<br/>Measure and React</h3>
+<a href='/stories/socialdna/lectures/lecture3.html'> <img src='/images/socialdna/measureandreact.png' height=200px /> </a>
 </div>
 <div class="col-md-3">
-<a href='/stories/socialdna/lectures/lecture4.html'> <img src='/images/socialdna/correlate.png'/> </a>
+<h3>Lecture 4:<br/>Predict the Present</h3>
+<a href='/stories/socialdna/lectures/lecture4.html'> <img src='/images/socialdna/correlate.png' height=200px /> </a>
 </div>
 </div>
 
 <!-- Lecture row 2 -->
 <div class="row" style='padding-bottom:30px;'>
 <div class="col-md-3">
-<a href='/stories/socialdna/lectures/lecture5.html'> <img src='/images/socialdna/candycrushing.png'/> </a>
+<h3>Lecture 5:<br>Contagion</h3>
+<a href='/stories/socialdna/lectures/lecture5.html'> <img src='/images/socialdna/candycrushing.png' height=200px /> </a>
 </div>
 <div class="col-md-3">
-<a href='/stories/socialdna/lectures/lecture6.html'> <img src='/images/socialdna/passivevirality.png'/> </a>
+<h3>Lecture 6:<br>Virality</h3>
+<a href='/stories/socialdna/lectures/lecture6.html'> <img src='/images/socialdna/passivevirality.png' height=200px /> </a>
 </div>
 <div class="col-md-3">
+<h3>Lecture 7:<br>Networks</h3>
 <a href='/stories/socialdna/lectures/lecture7.html'> <img src='/images/socialdna/xx.png'/> </a>
 </div>
 <div class="col-md-3">
+<h3>Lecture 8:<br>Network Contagion</h3>
 <a href='/stories/socialdna/lectures/lecture8.html'> <img src='/images/socialdna/xx.png'/> </a>
 </div>
 </div>
@@ -85,15 +94,19 @@
 <!-- Lecture row 3 -->
 <div class="row" style='padding-top:30px;padding-bottom:15px;'>
 <div class="col-md-3">
+<h3>Lecture 9:<br>Mapping Networks</h3>
 
 </div>
 <div class="col-md-3">
+<h3>Lecture 10:<br>Network Data</h3>
 
 </div>
 <div class="col-md-3">
+<h3>Lecture 11:<br>Identifying Influentials</h3>
 
 </div>
 <div class="col-md-3">
+<h3>Lecture 12:<br>The Influentials Myth</h3>
 
 </div>
 </div>
@@ -101,15 +114,19 @@
 <!-- Lecture row 4 -->
 <div class="row" style='padding-bottom:15px;'>
 <div class="col-md-3">
+<h3>Lecture 13:<br>Complex Contagion</h3>
 
 </div>
 <div class="col-md-3">
+<h3>Lecture 14:<br>Communities</h3>
 
 </div>
 <div class="col-md-3">
+<h3>Lecture 15:<br>Crowdsourcing</h3>
 
 </div>
 <div class="col-md-3">
+<h3>Lecture 16:<br>Network Presentations</h3>
 
 </div>
 </div>
@@ -117,15 +134,19 @@
 <!-- Lecture row 5 -->
 <div class="row" style='padding-bottom:15px;'>
 <div class="col-md-3">
+<h3>Lecture 17:<br>Crowd Forecasting</h3>
 
 </div>
 <div class="col-md-3">
+<h3>Lecture 18:<br>Prediction Markets</h3>
 
 </div>
 <div class="col-md-3">
+<h3>Lecture 19:<br>Problem Solving with Crowds</h3>
 <a href='/stories/socialdna/lectures/lecture19.html'> <img src='/images/socialdna/redballoon.png'/> </a>
 </div>
 <div class="col-md-3">
+<h3>Lecture 20:<br>Cat Photos and Open Innovation</h3>
 
 </div>
 </div>
