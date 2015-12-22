@@ -59,7 +59,7 @@ In his paper he uses an example of music performance, where seeing the best orch
 more than seeing the second best and so on (i.e. experience versus finances). This ends up working
 because these types of performances are easily able to accomodate multiple people (there isn't only
 one performance to be seen, that would drive the cost up enormously) that are easily purchased.
-Basically, if a Rolling Stones ticket costs $200, why pay $25 to see a Rolling Stones cover band
+Basically, if a Rolling Stones ticket costs \$200, why pay \$25 to see a Rolling Stones cover band
 goes the logic. And we all know that selling out Soldier Field will pay a lot more than selling out
 your neighbor's backyard (a Superstar is born!).
 
