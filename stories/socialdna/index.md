@@ -28,7 +28,7 @@
 <div class='col-md-6'>
 <h2>General Content</h2>
 <ul>
-<li> <a href='/files/pdf/mors945_syllabus.pdf'>Syllabus</a> </li>
+<li> <a href='/pdf/mors945_syllabus.pdf'>Syllabus</a> </li>
 <li> <a href='/categories/socialdna.html'>All Course Content Online</a>  </li>
 <li> <a href='/categories/socialdna-readings.html'>Readings</a> </li>
 <li> <a href='/categories/gephi.html'>Gephi Content</a> </li>
@@ -83,11 +83,11 @@
 </div>
 <div class="col-md-3">
 <h3>Lecture 7:<br>Networks</h3>
-<a href='/stories/socialdna/lectures/lecture7.html'> <img src='/images/socialdna/xx.png'/> </a>
+<a href='/stories/socialdna/lectures/lecture7.html'> <img src='/images/socialdna/simple_network.png' height=200px /> </a>
 </div>
 <div class="col-md-3">
 <h3>Lecture 8:<br>Network Contagion</h3>
-<a href='/stories/socialdna/lectures/lecture8.html'> <img src='/images/socialdna/xx.png'/> </a>
+<a href='/stories/socialdna/lectures/lecture8.html'> <img src='/images/socialdna/virality.png' height=200px /> </a>
 </div>
 </div>
 
@@ -95,19 +95,19 @@
 <div class="row" style='padding-top:30px;padding-bottom:15px;'>
 <div class="col-md-3">
 <h3>Lecture 9:<br>Mapping Networks</h3>
-
+<a href='/stories/socialdna/lectures/lecture9.html'> <img src='/images/socialdna/mapping_networks.png' height=200px /> </a>
 </div>
 <div class="col-md-3">
 <h3>Lecture 10:<br>Network Data</h3>
-
+<a href='/stories/socialdna/lectures/lecture10.html'> <img src='/images/socialdna/network_data.png' height=200px /> </a>
 </div>
 <div class="col-md-3">
 <h3>Lecture 11:<br>Identifying Influentials</h3>
-
+<a href='/stories/socialdna/lectures/lecture11.html'> <img src='/images/socialdna/birken_influential.png' height=200px /> </a>
 </div>
 <div class="col-md-3">
 <h3>Lecture 12:<br>The Influentials Myth</h3>
-
+<a href='/stories/socialdna/lectures/lecture11.html'> <img src='/images/socialdna/gapped.png' height=200px /> </a>
 </div>
 </div>
 
@@ -115,19 +115,19 @@
 <div class="row" style='padding-bottom:15px;'>
 <div class="col-md-3">
 <h3>Lecture 13:<br>Complex Contagion</h3>
-
+<a href='/stories/socialdna/lectures/lecture7.html'> <img src='/images/socialdna/complex_contagion.png' height=200px /> </a>
 </div>
 <div class="col-md-3">
 <h3>Lecture 14:<br>Communities</h3>
-
+<a href='/stories/socialdna/lectures/lecture7.html'> <img src='/images/socialdna/communities.png' height=200px /> </a>
 </div>
 <div class="col-md-3">
 <h3>Lecture 15:<br>Crowdsourcing</h3>
-
+<a href='/stories/socialdna/lectures/lecture7.html'> <img src='/images/socialdna/crowdsourcing.png' height=200px /> </a>
 </div>
 <div class="col-md-3">
 <h3>Lecture 16:<br>Network Presentations</h3>
-
+<a href='/stories/socialdna/lectures/lecture7.html'> <img src='/images/socialdna/simple_network.png' height=200px /> </a>
 </div>
 </div>
 
@@ -135,11 +135,11 @@
 <div class="row" style='padding-bottom:15px;'>
 <div class="col-md-3">
 <h3>Lecture 17:<br>Crowd Forecasting</h3>
-
+<a href='/stories/socialdna/lectures/lecture19.html'> <img src='/images/socialdna/crowd_forecasting.png'/> </a>
 </div>
 <div class="col-md-3">
 <h3>Lecture 18:<br>Prediction Markets</h3>
-
+<a href='/stories/socialdna/lectures/lecture19.html'> <img src='/images/socialdna/prediction_market.png'/> </a>
 </div>
 <div class="col-md-3">
 <h3>Lecture 19:<br>Problem Solving with Crowds</h3>
@@ -147,6 +147,6 @@
 </div>
 <div class="col-md-3">
 <h3>Lecture 20:<br>Cat Photos and Open Innovation</h3>
-
+<a href='/stories/socialdna/lectures/lecture20.html'> <img src='/images/socialdna/kitty.png'/> </a>
 </div>
 </div>
