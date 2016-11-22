@@ -1,0 +1,32 @@
+<!--
+.. title: Social Influence Game
+.. slug: social-influence-game
+.. date: 2016-11-14 16:49:05 UTC-06:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+-->
+
+
+<link type="text/css" rel="stylesheet" href="custom.css"/>
+
+<script type="text/javascript" src="chosen/chosen.jquery.js"></script>
+<link type="text/css" rel="stylesheet" href="chosen/chosen.css"/>
+
+<select id="data_sources" class='chzn-select' name="data_sources">
+    <option value="scale_free.json">Scale Free</option>
+    <option value="caveman.json">Clustered</option>
+</select>
+
+<button id = "button_labels" value = "Player 1" class = "first last">Player 1</button>
+<button id = "run_once" class = "first last">Run Once</button>
+<button id = "threshold" value = "Player 1" class = "first last">Threshold Off</button>
+<button id = "restart" value = "Restart" class = "first last">Restart</button>
+
+<div id='chart2' style='padding-top:30px;'></div>
+<div id='chart1'></div>
+
+<script src="universal_infect.js"></script>
+

@@ -723,7 +723,6 @@ DEPLOY_DRAFTS = False
 
 # If you are using the compile-ipynb plugin, just add this one:
 MATHJAX_CONFIG = """
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js" type="text/javascript"></script>
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
     tex2jax: {
@@ -737,6 +736,10 @@ MathJax.Hub.Config({
     }
 });
 </script>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script type="text/javascript" src="jquery.v1-7-2.js"></script>
+<script type="text/javascript" src="jquery.tipsy.js"></script>
 """
 
 # Do you want to customize the nbconversion of your IPython notebook?
