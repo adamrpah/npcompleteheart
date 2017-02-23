@@ -600,7 +600,7 @@ var viz_change = function(netfile){
 ////Set up chosen
 // $(".chzn-select").chosen();
 ////Call the viz_change immediately to initialize
-viz_change("caveman.json");
+viz_change("scale_free.json");
 ////Selector box change code.  All use the same function, since combined they identify the file
 // $("#data_sources").chosen().change(viz_change);
 
