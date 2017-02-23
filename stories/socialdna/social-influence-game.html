@@ -12,20 +12,7 @@
 
 <link type="text/css" rel="stylesheet" href="custom.css"/>
 
-<script type="text/javascript" src="chosen/chosen.jquery.js"></script>
-<link type="text/css" rel="stylesheet" href="chosen/chosen.css"/>
-
-<div class="dropdown btn-group">
-    <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-      Network Type
-      <span class="caret"></span>
-    </button>
-    <ul class="dropdown-menu dropdown" aria-labelledby="dropdownMenu2" >
-      <!-- Dropdown menu links -->
-      <li id="scale_f"><a href="#" value="scale_free.json" id="scale_f">Scale free</a></li>
-      <li id="clustered_net"><a href="#" value="caveman.json" id="clustered_net">Clustered</a></li>
-    </ul>
-</div>
+<!--<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>-->
 <button id = "button_labels" value = "Player 1" class="btn btn-primary" type="submit">Player 1</button>
 <button id = "run_once" type="button" class="btn btn-success">Run Once</button>
 <button id = "threshold" value = "Player 1" class="btn btn-primary" type="submit">Threshold On</button>
@@ -41,6 +28,18 @@
 </div>
 
 <div id='chart1'></div>
+
+<div class="dropdown btn-group">
+    <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      Network Type
+      <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu dropup" aria-labelledby="dropdownMenu2" >
+      <!-- Dropdown menu links -->
+      <li id="scale_f"><a href="#" value="scale_free.json" id="scale_f">Scale free</a></li>
+      <li id="clustered_net"><a href="#" value="caveman.json" id="clustered_net">Clustered</a></li>
+    </ul>
+</div>
 
 <script src="universal_infect.js"></script>
 
