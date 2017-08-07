@@ -11,6 +11,18 @@
 
 #Publications
 
+* [Economic insecurity and the rise in gun violence at US schools](http://www.nature.com/articles/s41562-016-0040?WT.feed_name=subjects_society)<br/>
+  **Pah AR**, Hagan J, Jennings AL, Jain A, Albrecht K, Hockenberry AJ, and Amaral LAN<br/>
+  Nature Human Behavior (2017)<br/>
+
+* [Defining the anti-Shine-Dalgarno sequence and quantifying its functional role in regulating translation efficiency](http://rsob.royalsocietypublishing.org/content/7/1/160239)<br/>
+  Hockenberry AJ, **Pah AR**, Jewett MC, and Amaral LAN<br/>
+  Open Biology (2017)<br/>
+
+* [An analysis of muscoloskeletal injuries sustained in falls from the United States-Mexico border fence](https://www.healio.com/orthopedics/journals/ortho/2017-5-40-3/%7B099410e7-e5c6-4817-9e3f-adec1ad2955c%7D/analysis-of-musculoskeletal-injuries-sustained-in-falls-from-the-united-statesmexico-border-fence)</br>
+  Burk D, **Pah AR**, Ruth JT<br/>
+  Orthopedics (2017)<br/>
+
 * [Design and implementation of a privacy preserving electronic health record linkage tool in Chicago](http://jamia.oxfordjournals.org/content/early/2015/06/23/jamia.ocv038.abstract) <br/>
   Kho AN, Cashy JP, Jackson KL, **Pah AR**, Goel S, Boehnke J, Humphries JE, Kominers SD, Hota BN, Sims SA, Malin BA, French DD, Walunas TL, Meltzer DO, Kaleba EO, Jones RC, Galanter WL<br/>
   Journal of the American Medical Informatics Association ocv038 (2015)<br/>
