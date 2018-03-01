@@ -1,5 +1,11 @@
 $("#restart").click(function(){
-
+  $('#chart1').show();
+  $('#chart2').show();
+  $('#second_row').show();
+  $('#node_cost').show();
+  $('#coins_remaining').show();
+  console.log('whhhhhhat')
+  console.log(netfile)
   viz_change("scale_free.json")
 })
 
@@ -10,16 +16,12 @@ $("#home_page").click(function(){
   $('#second_row').show();
   $('#node_cost').show();
   $('#coins_remaining').show();
-  $('#high_scores_table').hide();
-  $('#high_scores').html('High Scores');
 })
 
 var names = [];
 var toggle = 0;
 var toggle_2 = 0;
 var main = function(netfile){
-  $('#high_scores_table').hide();
-  $('#saver_form').hide();
   var p1Coins = 50;
   var p2Coins = 50;
   d3.json(netfile, function(error, graph) {
@@ -419,23 +421,6 @@ var main = function(netfile){
         .attr("font-size", "14px")
         .attr("fill", "black");
 
-  //   var coinCounterChart = d3.select("#infoWindowChart")
-  //      .append("svg:svg")
-  //     //  .style("float","left")
-  //      .attr("width", width/2)
-  //      .attr("height", '80px')
-  //      .append("svg:g");
-  // var coinText = coinCounterChart.selectAll("text")
-  //      .data([""])
-  //      .enter()
-  //      .append("text");
-  //   var coinCounterLabels = coinText.attr("x", 30)
-  //       .attr("y", 40)
-  //       .text("Coins Remaining: " + p1Coins)
-  //       .attr("font-family", "sans-serif")
-  //       .attr("font-size", "14px")
-  //       .attr("fill", "black");
-
     var svg = d3.select("#chart2").append("svg:svg")
        .attr("width", width)
        .attr("height", '80px')
@@ -512,70 +497,7 @@ var main = function(netfile){
               rank = rank + 1;
             }
 
-            $('#table_entries').remove();
-            $('#highScoreTable').append(html_table);
-
-
           });
-
-
-          //HERE //here we're trying to dynamically update the table elements from the array names[], who's even elements are names and whose odd are the corresponding scores
-          // $(document).ready(function() {
-            $(document).on('click', '#high_scores', function(){
-              if (toggle == 0) {
-            $('#chart1').hide();
-            $('#chart2').hide();
-            $('#second_row').hide();
-            $('#node_cost').hide();
-            $('#coins_remaining').hide();
-            $('#high_scores_table').show();
-            $('#high_scores').html('Keep Playing');
-
-
-            // var table_open = '<table class="table" id="high_scores_table" style="margin-top:100px;">\
-            //   <thead>\
-            //     <tr>\
-            //       <th>Rank</th>\
-            //       <th>Name</th>\
-            //       <th>Score</th>\
-            //     </tr>\
-            //   </thead>\
-            //   <tbody id="highScoreTable">';
-
-            // $('#row_top').append(table_open + html_table + '</tbody></table>');
-
-
-
-            toggle = 1;
-          }//end of toggle
-          else {
-            $('#chart1').show();
-            $('#chart2').show();
-            $('#second_row').show();
-            $('#node_cost').show();
-            $('#coins_remaining').show();
-            $('#high_scores_table').hide();
-            $('#high_scores').html('High Scores');
-            toggle = 0;
-          }
-            // ($('<tr><th scope="row">' + names[0] +'</th><td>cash</td><td>joe</td></tr>'));
-
-
-
-          });
-
-
-
-
-            // for (var score_i = 0; score_i < names.length; score_i ++) {
-            //   var rank = score_i + 1;
-            //   $('#highScoreTable').append($('<tr><th scope="row">' + rank + '</th><td>bill</td><td>joe</td></tr>'));
-            // }
-          // });
-
-
-
-
 
   }); //end of d3.json
 
@@ -592,24 +514,18 @@ var viz_change = function(netfile){
   $('#coins_remaining').html("Coins Remaining: 50");
   $('#button_labels').text("Player 1");
   d3.select("#button_labels").attr("value", "Player 1");
-  //run i tup the flag pole
+  //run it up the flag pole
   main(netfile)
 }
 
-//Code calls
-////Set up chosen
-// $(".chzn-select").chosen();
-////Call the viz_change immediately to initialize
-viz_change("scale_free.json");
-////Selector box change code.  All use the same function, since combined they identify the file
-// $("#data_sources").chosen().change(viz_change);
-
 //////////////
 $('#scale_f').on('click', function(){
+  $('#dropdownMenu2').attr("value", "scale_free.json")
   viz_change("scale_free.json");
 });
 
 $('#clustered_net').on('click', function(){
+  $('#dropdownMenu2').attr("value", "caveman.json")
   viz_change("caveman.json");
 });
 
@@ -627,5 +543,4 @@ $(document).ready(function() {
               $('.form-group button').removeAttr('disabled');
           }
       });
-
   });
